@@ -53,8 +53,8 @@ Today, I specialize in:
 
 ## 📈 GitHub Stats
 
-![Ranjha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Ranjha's GitHub Stats](https://github-readme-stats.vercel.app/api?muhammadQasimRanjha786&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadQasimRanjha786&layout=compact&theme=radical)
 
 ---
 
